@@ -1,0 +1,190 @@
+git config --global user.name "Jose Angel"
+git config --global user.email "Jose Angel"
+clear
+git config --global user.name "Jose Angel"
+git config --global user.email "jo\
+clear\
+"
+clear
+git clone https,.<>?"{}+_)(*&^^^%%$$$##2222123456789-=[]['\
+"
+git clone httpsclear
+clear
+git clone https://github.com/joseaa/Master_26_clase.git
+git add README.md
+gedit readme.md
+git status
+get readme.vm
+get readme.md
+gedit README.md
+git status
+git add -u
+ll
+mkdir Repos
+cd Repos
+git clone https://github.com/joseaa/Master_26_clase.git
+cd Master_26_clase
+gedit reamde.md
+git commit -m "added second line"
+git add readme.md
+add reamde.md
+gedit readme.md
+git add readme.md
+git commit -m "New filed added"
+git push
+clear
+git init master_from_local
+ll
+ll -a
+cd
+cd..
+cd ..
+cd
+cd repos
+cd Repos
+cd Master_26_clase
+cd
+cd Master_26_clase
+cd ..
+cd Master_26_clase
+touch my_ideas.txt
+gedit my_ideas.txt
+git add my_ideas.txt
+git commit -m "my initial idea"
+gedit my_second_idea.txt
+git status
+gedit my_ideas.txt
+git status
+git add -u
+git status
+git add my_second_idea
+git add my_second_idea.txt
+git commit -m "second idea addes"
+git remote add origin https://github.com/joseaa/My_ideas
+git remote add origin https://github.com/joseaa/My_ideas.git
+git branch -m main
+git push -u origin main
+git init master_from_local
+ll
+cd master_from_local
+touch my_ideas.txt
+gedit my_ideas.txt
+git add my_ideas.txt
+git commit "my inital idea"
+git commit -m "my initial idea"
+gedit my_second_idea.txt
+git status
+gedit my_ideas.txt
+git status
+git add -u
+git status
+git add my_second_idea.txt
+git status
+git commit -m "second idea added"
+git log
+git remote add origin https://github.com/joseaa/My_ideas.git
+git branch -M main
+git push -u origin main
+man cp
+man mv
+man git
+man cat
+less .gitconfig
+cd Data/opentraveldata
+cd home
+cd ~
+cd /Data/opentraveldata
+cd ~/Data/opentravledata
+cd ~/Data/opentravledata/
+cd ~/Data/opentravledata
+alias
+type phyton
+type python
+which python
+where is python
+wheris python
+whereis python
+which python
+sudo which python
+cd Data/shell
+head Finn.txt
+head -5 Finn.txt
+head -n 5 Finn.txt
+head -n -5 Finn.txt
+tail -3 Finn.txt
+tail 53 Finn.txt
+tail -5 Finn.txt
+tail -n -5 Finn.txt
+tail -n +5 Finn.txt
+tail -n +5 Fionn.txt
+claer
+clear
+wc Finn.txt
+echo "HELP MEEEEE"
+echo "HELP MEEEEE"|wc
+wc Text_example.txt
+cat Text_example.txt
+cat Text_example.txt | wc
+cat Text_example.txt|head | wc
+cat Text_example.txt|head -3 | wc
+cat Text_example.txt | wc
+cat Text_example.txt | wc | > salida.txt
+ll
+cat salida.txt
+cat Text_example.txt | wc | > salida.txt
+cat salida.txt
+cat Text_example.txt | wc | >>  salida.txt
+cat salida.txt
+wc < text.example
+wc < text.example.txt
+wc <Ttext.example.txt
+wc <Text.example.txt
+wc < Text.example.txt
+clear
+cd opentraveldata
+whereis opentraveldata
+ls opentraveldata
+~/Data/opentraveldata
+~
+dc ~
+dc ~/
+dc ~/Data/opentraveldata
+dc Data/opentravledata
+whereis opentraveldata
+Data/opentraveldata
+~/Data/opentraveldata
+..
+history
+clear
+cd ~/Data/opentravledata
+cd ~/Data/opentraveldata
+ls
+man ls
+ls -S
+wc optd_por_public.csv
+man permissions
+ls -al optd_por_public.csv
+ll
+ls -l
+ll -S
+ll -S | head -2
+ll -S | head -2 | tali -1
+ll -S | head -2 | tail -1
+ll -S | head -2 | tail -1 > largest_file.txt
+cd ../shell
+head -5 Finn.txt| wc 
+head -5 Finn.txt| wc -w
+cat Text_example.txt | head -3 | less -N
+cd Repos
+cd ..
+cd Repos
+cd ..
+cd Repos
+git init ClasesMaster
+cd ClasesMaster
+mkdir shell
+mkdir Python
+mkdir Challenge
+cd shell
+cat ~/.history
+cat ~/.history > Shell_clase2020-11-14.txt
